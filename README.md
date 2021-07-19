@@ -1,1 +1,6 @@
-This is a W.I.P. This is the same exact bot but with a dashboard.
+This is a template for your discord bot. This inludes a dashboard.
+To use this you must know
+- JavaScript
+- Pug
+- CSS
+- Express
