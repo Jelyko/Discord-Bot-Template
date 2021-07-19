@@ -1,0 +1,37 @@
+#overviewModule {
+    color: white;
+}
+
+#generalModule input,
+#moderationModule input,
+#ticketsModule input {
+    background-color: #2C2F33;
+    border-color: #2C2F33;
+    color: white;
+}
+
+#generalModule select,
+#moderationModule select,
+#ticketsModule select {
+    background-color: #2C2F33;
+    border-color: #2C2F33;
+    color: white;
+}
+
+#generalModule label,
+#generalModule h1,
+#moderationModule label,
+#moderationModule h1,
+#ticketsModule label,
+#ticketsModule h1,
+#ticketsModule h6 {
+    color: white;
+}
+
+#ticket-add {
+    color: red;
+}
+
+#ticket-remove {
+    color: green;
+}

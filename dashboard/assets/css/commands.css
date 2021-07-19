@@ -1,0 +1,26 @@
+#search {
+    max-width: 300px;
+}
+#search + button {
+    height: 64px;
+}
+
+li {
+    cursor: pointer;
+}
+
+.commands li {
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #2C2F33 !important;
+    background-color: #2C2F33;
+}
+
+.categories li {
+    border: 1px solid #2C2F33 !important;
+    background-color: #2C2F33;
+}
+
+.row {
+    color: white;
+}

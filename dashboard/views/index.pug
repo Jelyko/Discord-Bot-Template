@@ -1,0 +1,15 @@
+doctype
+html(lang="en")
+    head
+        include includes/header.pug
+
+        link(rel='stylesheet', href='/css/index.css')
+        link(rel='stylesheet', href='/css/utils.css')
+    body
+        include includes/navbar.pug
+        #jumbotronhead.jumbotron.text-center.bg-transparent 
+            h1.display-3 Discord bot template
+            p.lead Edit this! (./dashboard/views/index.pug)
+                i.fas.fa-robot.pl-2
+            a.btn.btn-primary(href='/invite') Invite
+            a.btn.btn-secondary(href='/commands') Commands

@@ -1,0 +1,8 @@
+body {
+    overflow-x: hidden;
+    background-color: rgba(44, 47, 51, .9)
+}
+
+.round {
+    border-radius: 50px;
+}

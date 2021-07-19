@@ -1,0 +1,11 @@
+doctype
+html(lang="en")
+    head
+        include ../includes/header.pug
+
+        link(rel='stylesheet', href='/css/errors/401.css')
+    body
+        .jumbotron.text-center.bg-transparent 
+            h1.display-3 401
+            p.lead Unauthorized
+            a.btn.btn-primary(href='/') Return Home

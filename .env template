@@ -1,0 +1,14 @@
+//Bot ID
+ID=
+//Bot Secret
+SECRET=
+//Bot token
+TOKEN=
+//Database password. Leave empty if none.
+PASS=
+//Database URL. Example: mongodb://192.168.178.1/bot
+DATABASE=
+//Port for the web server. Default 3000
+PORT=3000
+//URL for the dashboard
+DASHBOARD=http://localhost:3000

@@ -1,0 +1,43 @@
+#jumbotronhead {
+    margin-top: 25vh;
+}
+#jumbotronhead a {
+    margin-left: 20px;
+}
+#information {
+    margin-top: 40vh;
+}
+
+nav {
+    background-color: #23272A;
+    color: white;
+}
+
+#navbarfull {
+    background-color: #23272A;
+}
+
+#navbarfull a,
+#navbarfull span {
+    color: white;
+}
+
+#navbarfull .dropdown-menu {
+    background-color: #7289DA;
+}
+
+#navbarfull .dropdown-toggle {
+    color: #7289DA;
+}
+
+#fas {
+    color: #7289DA;
+}
+
+body {
+    color: white;
+}
+
+#logotext {
+    color: #7289DA !important;
+}
